@@ -1,0 +1,25 @@
+# pack-refs with: peeled fully-peeled 
+c95f3f8b5b347f1b3e77d2d11063207ddb7dc5ec refs/remotes/gith/daisy
+09a2b5d29a82844c9ae79626ebffd4946893f24e refs/remotes/gith/danny
+6710df97df3d96776c598330e1bd2c63a9450030 refs/remotes/gith/denzil
+137645f5daf596c8630cf505b789bc2f174f1b1d refs/remotes/gith/dizzy
+0bf4fe6ea5b6493601412a44de850a82dc3f91d1 refs/remotes/gith/dizzy-next
+375f89b70655be2a17bbde36de6adb4e4a5a6975 refs/remotes/gith/dora
+334272db74e7e72007ef07af832aef4a19cd35cc refs/remotes/gith/dora-next
+5f5a9cfcad223f5a1c623346780510ffcdc012ab refs/remotes/gith/dylan
+ac1e57a770a13388ef2ea77b32cbcb09d5e6e14e refs/remotes/gith/master
+ac1e57a770a13388ef2ea77b32cbcb09d5e6e14e refs/remotes/gith/master-next
+ddef1e9fb5e2bc505a535cd8322090850da67f6f refs/tags/1.2
+^a2392c91f93c18a065fb64c2b3545d9520c35040
+3c61fc1a583a2f5619edc6d6a865132d4b046d4d refs/tags/1.2-rc1
+^a2392c91f93c18a065fb64c2b3545d9520c35040
+2b27b97e5b22eee1500b8918ad557621bcedd149 refs/tags/1.3
+^09a2b5d29a82844c9ae79626ebffd4946893f24e
+26488278e15c13daf346369aa8e6ae5566c97b62 refs/tags/1.4
+^5f5a9cfcad223f5a1c623346780510ffcdc012ab
+72bcaca575d62bf557fe47ed8f19291d94636264 refs/tags/1.5
+^1a9cd5ef40580eca705b53b8dcb7b92baa73d293
+d38a05b42917f50a39647313116e44657d2395ad refs/tags/1.6
+^596e44c6166b8978929433b940a3f277fb200120
+dbc29ff9a25dc3d404906c09d745ba9128fc2917 refs/tags/1.7
+^0bf90932c2775a433a752f8b94a7ec51d1891ab9

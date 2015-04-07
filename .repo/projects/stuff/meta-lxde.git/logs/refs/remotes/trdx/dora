@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 8f47ef38f225a77aa79b217d35d88543d7d7603f Joao Vilan Junior <joao@joao-HP-ProBook-4520s.(none)> 1428437314 -0300	fetch trdx --tags +refs/heads/*:refs/remotes/trdx/* +refs/heads/daisy:refs/remotes/trdx/daisy: storing head

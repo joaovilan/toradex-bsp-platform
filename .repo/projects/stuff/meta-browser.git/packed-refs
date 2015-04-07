@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+de6eb680c0efe0df9ed12526380a10d3aab4359a refs/remotes/gith/danny
+c94a11b2f0811961f56b75c699f299d3d90ecf1a refs/remotes/gith/dora
+2140f2a114f7009f86479afb12a524bb157cbb0e refs/remotes/gith/dylan
+30b8d6b3d0d6501c56ef6967a2fa73a3d4bf5fe9 refs/remotes/gith/master

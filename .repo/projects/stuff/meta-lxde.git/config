@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "trdx"]
+	url = http://git.toradex.com/meta-lxde.git
+	projectname = meta-lxde.git
+	fetch = +refs/heads/*:refs/remotes/trdx/*

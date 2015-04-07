@@ -1,0 +1,21 @@
+a5a5bbd1b1a87c20016fe6689e2c5763e56d8427		branch '1.4_M3' of http://github.com/Freescale/meta-fsl-arm
+2ea1d2c944c63a078a1921cf8b8abfbc04d5adaa		branch '1.4_M5' of http://github.com/Freescale/meta-fsl-arm
+0c4de80867c3ab4e9682dd7802d3fd907d1e1a23		branch 'daisy' of http://github.com/Freescale/meta-fsl-arm
+d1f1fe7599fa8204730fd018ef2a507b1d6e8aa2		branch 'danny' of http://github.com/Freescale/meta-fsl-arm
+0cf2104c0fff273d4335776391f04ce25e587d4e		branch 'danny-next' of http://github.com/Freescale/meta-fsl-arm
+c68cf8b207ecf5daf2122200516dd281f046b40b		branch 'denzil' of http://github.com/Freescale/meta-fsl-arm
+db1571f40c375a398a8cdbb42de4c4f272ab0cd1		branch 'dizzy' of http://github.com/Freescale/meta-fsl-arm
+9628d03a39f273bd9bf128b1c99df1cd3be21586		branch 'dizzy-next' of http://github.com/Freescale/meta-fsl-arm
+5fdb620c09df11e70434092f675c891e0ba84108		branch 'dora' of http://github.com/Freescale/meta-fsl-arm
+bce654fbc44d931494eb8f2662ada6d57c57d9dc		branch 'dora-next' of http://github.com/Freescale/meta-fsl-arm
+24caed8ff6f6088033d00d4567f7a7cad7fd5dd3		branch 'dylan' of http://github.com/Freescale/meta-fsl-arm
+dbf390a783ac8f8e0280bb3d5b549ecd6d5a4f12		branch 'dylan-next' of http://github.com/Freescale/meta-fsl-arm
+0b3457e7160a0069bb933558034a749b042bba88		branch 'master' of http://github.com/Freescale/meta-fsl-arm
+24e7b0ad285518495eb918209a69563cda7e3525		branch 'master-next' of http://github.com/Freescale/meta-fsl-arm
+62fb41e9e3c8983de14d77991e61f31a39160bee	not-for-merge	tag '1.2' of http://github.com/Freescale/meta-fsl-arm
+98b5e101a950edb53aa764be7d447d5a9078fb90	not-for-merge	tag '1.2-rc1' of http://github.com/Freescale/meta-fsl-arm
+49cae512bae4eed726d3a4261b2c95e2768c0a7c	not-for-merge	tag '1.3' of http://github.com/Freescale/meta-fsl-arm
+e4e6ce1cf49a0b64edfda8787ab30252393838c4	not-for-merge	tag '1.4' of http://github.com/Freescale/meta-fsl-arm
+1a2e123a4273210d645141b0e627ee4ef1109d0b	not-for-merge	tag '1.5' of http://github.com/Freescale/meta-fsl-arm
+5b537f6188654903b3d6fce850865e139f0ab907	not-for-merge	tag '1.6' of http://github.com/Freescale/meta-fsl-arm
+684960646b25e8d960b355b07f7b93f4916b88bf	not-for-merge	tag '1.7' of http://github.com/Freescale/meta-fsl-arm

@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+0cc697317b996ed0ac2c2b42208f0799d0f51b16 refs/remotes/trdx/daisy
+8f47ef38f225a77aa79b217d35d88543d7d7603f refs/remotes/trdx/dora
+f69ffe4cebf94f48f02838002dbc3544b3ffb460 refs/remotes/trdx/dylan
+f69ffe4cebf94f48f02838002dbc3544b3ffb460 refs/remotes/trdx/master

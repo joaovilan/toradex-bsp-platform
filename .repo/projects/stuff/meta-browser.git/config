@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "gith"]
+	url = http://github.com/OSSystems/meta-browser.git
+	projectname = OSSystems/meta-browser.git
+	fetch = +refs/heads/*:refs/remotes/gith/*

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "gith"]
+	url = http://github.com/Angstrom-distribution/meta-angstrom.git
+	projectname = Angstrom-distribution/meta-angstrom.git
+	fetch = +refs/heads/*:refs/remotes/gith/*

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "gith"]
+	url = http://github.com/Freescale/meta-fsl-demos.git
+	projectname = Freescale/meta-fsl-demos.git
+	fetch = +refs/heads/*:refs/remotes/gith/*

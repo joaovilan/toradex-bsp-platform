@@ -1,0 +1,11 @@
+stuff/meta-angstrom
+stuff/meta-browser
+stuff/meta-fsl-arm
+stuff/meta-fsl-arm-extra
+stuff/meta-fsl-demos
+stuff/meta-linaro
+stuff/meta-lxde
+stuff/meta-openembedded
+stuff/meta-toradex
+stuff/openembedded-core
+stuff/openembedded-core/bitbake

@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 03bceadf7d9f70d7b013f453e81b2b9d1b7cdbc7 joaovilan <joaovilan@hotmail.com> 1428437403 -0300	fetch linaro --tags +refs/heads/*:refs/remotes/linaro/* +refs/heads/daisy:refs/remotes/linaro/daisy: storing head

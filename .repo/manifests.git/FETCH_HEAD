@@ -1,0 +1,39 @@
+fc389083f2c4e3b4260245f49968f588613c4b3c		branch 'LinuxImageV2.1' of http://git.toradex.com/toradex-bsp-platform
+9cffb9b9a5a1841abc0e3d5c576658be2ffd0dd5		branch 'LinuxImageV2.2' of http://git.toradex.com/toradex-bsp-platform
+28f8f6137c8d770f437f3c2e816256be0d5eed7d		branch 'LinuxImageV2.3' of http://git.toradex.com/toradex-bsp-platform
+4d920b2dc4a94db556d31a01c412ccc3433e79d0	not-for-merge	tag 'Apalis_T30_LinuxImageV2.1Beta1_20131022' of http://git.toradex.com/toradex-bsp-platform
+20f1f9c70eccbd01d915cc1e581c91d0b267ce21	not-for-merge	tag 'Apalis_T30_LinuxImageV2.1Beta2_20140206' of http://git.toradex.com/toradex-bsp-platform
+58ccb894986d5ef7bc2b6b9bd5ac0d9d8dcf4c7c	not-for-merge	tag 'Apalis_T30_LinuxImageV2.1Beta3_20140318' of http://git.toradex.com/toradex-bsp-platform
+52c4c40173405fee03321b4a712d53b38aae6b1f	not-for-merge	tag 'Apalis_T30_LinuxImageV2.3Beta1_20140804' of http://git.toradex.com/toradex-bsp-platform
+9940e09d02cc03314e4f41fca93ecb4750cbaa98	not-for-merge	tag 'Apalis_T30_LinuxImageV2.3Beta2_20140903' of http://git.toradex.com/toradex-bsp-platform
+1f3e0e42d566ce27fff789b130b35510b25bc2ea	not-for-merge	tag 'Apalis_T30_LinuxImageV2.3Beta3_20141031' of http://git.toradex.com/toradex-bsp-platform
+a3955caa5af6c0695ab7135ba1eb37f5e66d1356	not-for-merge	tag 'Apalis_T30_LinuxImageV2.3Beta5_20141219' of http://git.toradex.com/toradex-bsp-platform
+45578702fbf27ec86873391812f31f439c8d77d3	not-for-merge	tag 'Apalis_iMX6_LinuxImageV2.2Beta1_20140404' of http://git.toradex.com/toradex-bsp-platform
+a686f8b318924ad6d9b20bcadd9b67e9687d0e25	not-for-merge	tag 'Apalis_iMX6_LinuxImageV2.3Beta1_20140804' of http://git.toradex.com/toradex-bsp-platform
+734a83d01b18eceda56934f5740e5157d52a9a3e	not-for-merge	tag 'Apalis_iMX6_LinuxImageV2.3Beta3_20141031' of http://git.toradex.com/toradex-bsp-platform
+376b6609278339c8ff3a884ff720deeefba9eba4	not-for-merge	tag 'Apalis_iMX6_LinuxImageV2.3Beta5_20141219' of http://git.toradex.com/toradex-bsp-platform
+d9cb5c6e250e13985392086c6930fd47265bb9d9	not-for-merge	tag 'Apalis_iMX6_LinuxImageV2.3Beta6_20150112' of http://git.toradex.com/toradex-bsp-platform
+caab6bcdbd7547c90b7d6370311cba0205abc0f1	not-for-merge	tag 'Colibri_T20_LinuxImageV2.1Beta1_20131022' of http://git.toradex.com/toradex-bsp-platform
+f6af9510782538a8fed7ad4978f05360696f32ca	not-for-merge	tag 'Colibri_T20_LinuxImageV2.1Beta2_20140207' of http://git.toradex.com/toradex-bsp-platform
+ce19be78a5a36aad49c1bfc34fa95f8678eff0b0	not-for-merge	tag 'Colibri_T20_LinuxImageV2.1Beta3_20140318' of http://git.toradex.com/toradex-bsp-platform
+21ce3c8ec2652a5209a314e0fb315c794d670b5d	not-for-merge	tag 'Colibri_T20_LinuxImageV2.3Beta1_20140804' of http://git.toradex.com/toradex-bsp-platform
+65c39544c5570d5dc0ec9697cee6efea1d43d167	not-for-merge	tag 'Colibri_T20_LinuxImageV2.3Beta3_20141031' of http://git.toradex.com/toradex-bsp-platform
+5b55bc4d5e7939660b10c4bdae4de640b98911f6	not-for-merge	tag 'Colibri_T20_LinuxImageV2.3Beta5_20141219' of http://git.toradex.com/toradex-bsp-platform
+42116b8c0e99fa6de69410358697acff9a1ec0e6	not-for-merge	tag 'Colibri_T20_LinuxImageV2.3Beta7_20150203' of http://git.toradex.com/toradex-bsp-platform
+e51d5cc2f2b0edf126d95381cef6571039237e0b	not-for-merge	tag 'Colibri_T20_LinuxImageV2.3_20150320' of http://git.toradex.com/toradex-bsp-platform
+d23efc462211c73770561576c39996480e48f3e9	not-for-merge	tag 'Colibri_T30_LinuxImageV2.1Beta1_20131022' of http://git.toradex.com/toradex-bsp-platform
+880b2beb417516f178a4b4d255cbb9da5e1ee526	not-for-merge	tag 'Colibri_T30_LinuxImageV2.1Beta2_20140206' of http://git.toradex.com/toradex-bsp-platform
+71446f7caee581e10c8c4d4dd26dba7987323df0	not-for-merge	tag 'Colibri_T30_LinuxImageV2.1Beta3_20140318' of http://git.toradex.com/toradex-bsp-platform
+834fc277fc33f3aebefb1b53c68b7428c9c915da	not-for-merge	tag 'Colibri_T30_LinuxImageV2.3Beta1_20140804' of http://git.toradex.com/toradex-bsp-platform
+2ddc8a63edfcd0239eea795f61b5334501af2bb7	not-for-merge	tag 'Colibri_T30_LinuxImageV2.3Beta3_20141031' of http://git.toradex.com/toradex-bsp-platform
+76ad76b790715d26b0a194c6fc887b2b54929788	not-for-merge	tag 'Colibri_T30_LinuxImageV2.3Beta5_20141219' of http://git.toradex.com/toradex-bsp-platform
+c9b19167b60fed75531712469a066950d3646a55	not-for-merge	tag 'Colibri_VF50_LinuxImageV2.1Beta1_20131022' of http://git.toradex.com/toradex-bsp-platform
+60f196492d09ccf447511eda5b7995cccac8af59	not-for-merge	tag 'Colibri_VF_LinuxImageV2.1Beta2_20131129' of http://git.toradex.com/toradex-bsp-platform
+3cad663fdbdb39d1faab5aee8dc5ba7bf0d6b77b	not-for-merge	tag 'Colibri_VF_LinuxImageV2.1Beta3_20140318' of http://git.toradex.com/toradex-bsp-platform
+9a55d787bd2f207223afb5d279f1eaf2fe16916c	not-for-merge	tag 'Colibri_VF_LinuxImageV2.2Beta1_20140603' of http://git.toradex.com/toradex-bsp-platform
+eb0589e3d469074cc52da82c95932416a527c154	not-for-merge	tag 'Colibri_VF_LinuxImageV2.3Beta1_20140804' of http://git.toradex.com/toradex-bsp-platform
+97c30039a7d01d3777c8fa94b403db82972d5a2f	not-for-merge	tag 'Colibri_VF_LinuxImageV2.3Beta3_20141031' of http://git.toradex.com/toradex-bsp-platform
+8254c4cd7cfa66e6833fa61ba2634c7e5e128dd6	not-for-merge	tag 'Colibri_VF_LinuxImageV2.3Beta5_20141219' of http://git.toradex.com/toradex-bsp-platform
+2fcdc5325078442767ef7852f0dabeeca53a92f5	not-for-merge	tag 'Colibri_VF_LinuxImageV2.3Beta7_20150203' of http://git.toradex.com/toradex-bsp-platform
+0b0a7d4d1625becba6a2db3711e9ee804f0e34ec	not-for-merge	tag 'Colibri_iMX6_LinuxImageV2.3Beta4_20141113' of http://git.toradex.com/toradex-bsp-platform
+572bf91fdd47936edac797aedf69b529d106d6d7	not-for-merge	tag 'Colibri_iMX6_LinuxImageV2.3Beta5_20141219' of http://git.toradex.com/toradex-bsp-platform

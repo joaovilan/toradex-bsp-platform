@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled 
+ee38bd8c15497fdd313ca5c3853b659eaf24599f refs/remotes/gith/angstrom-v2012.05-yocto1.2
+418cb0f6076441382c952ac36eb4a3abd0f498bb refs/remotes/gith/angstrom-v2012.12-yocto1.3
+d0f7da44d73f1af26dff0a7579394a36d3098330 refs/remotes/gith/angstrom-v2013.06-yocto1.4
+5ab34eee4f4c454cb626d2dff989a85fca39a090 refs/remotes/gith/angstrom-v2013.12-yocto1.5
+ea84c1e61d22beee8d2f0a3a296999ed0e478971 refs/remotes/gith/angstrom-v2014.06-yocto1.6
+c9f03e45ffbe372fb9d3f2f7bb41b2314145d5ce refs/remotes/gith/angstrom-v2014.12-yocto1.7
+1589a6846dca977fe933acfdc7b5c68e7692c233 refs/remotes/gith/master
+b8be2cbea216e837e202cbc76897d683b58aeb5a refs/remotes/gith/staging

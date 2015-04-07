@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled 
+d3d14d3fcca7fcde362cf0b31411dc4eea6d20aa refs/remotes/oe/daisy
+d3d14d3fcca7fcde362cf0b31411dc4eea6d20aa refs/remotes/oe/daisy-next
+f00028caf257e386c0f3ae46bd4b3ba53dd0729d refs/remotes/oe/danny
+aba52d3f2fd55cbfa1a9ec40fdd9281e88e943e7 refs/remotes/oe/danny-next
+c0117f5ad7d1fe18d149bda426c7134ff24daae8 refs/remotes/oe/denzil
+b25b616baf5faa4febc8ad704bf3e02506538ed6 refs/remotes/oe/denzil-next
+2ebb8752f378c9987b0ece5a14915d703b872c1d refs/remotes/oe/dizzy
+2ebb8752f378c9987b0ece5a14915d703b872c1d refs/remotes/oe/dizzy-next
+e75ae8f50af3effe560c43fc63cfd1f39395f011 refs/remotes/oe/dora
+e75ae8f50af3effe560c43fc63cfd1f39395f011 refs/remotes/oe/dora-next
+4e3362f9c2b5540231011930b91d2cf56e487ff7 refs/remotes/oe/dylan
+ac1fad48216f9c4b851541f8433a50c2f0795a54 refs/remotes/oe/dylan-next
+b36e148065e4dfc2c52833bc3af09b1e61d81734 refs/remotes/oe/fido-next
+f1b81729a2630c1b5e903bf762e31c3a74785e58 refs/remotes/oe/jansa/master
+f3092a6766a3004a6fc9e2eef937a40508e97c44 refs/remotes/oe/master
+f4e9fc65a5727bfba85451f6ccabdc88f1fc2060 refs/remotes/oe/master-next

@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 dbf390a783ac8f8e0280bb3d5b549ecd6d5a4f12 Joao Vilan Junior <joao@joao-HP-ProBook-4520s.(none)> 1428437427 -0300	fetch gith --tags +refs/heads/*:refs/remotes/gith/* +refs/heads/daisy:refs/remotes/gith/daisy: storing head

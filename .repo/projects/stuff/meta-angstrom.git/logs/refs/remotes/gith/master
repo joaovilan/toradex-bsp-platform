@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 1589a6846dca977fe933acfdc7b5c68e7692c233 Joao Vilan Junior <joao@joao-HP-ProBook-4520s.(none)> 1428437429 -0300	fetch gith --tags +refs/heads/*:refs/remotes/gith/* +refs/heads/angstrom-v2014.06-yocto1.6:refs/remotes/gith/angstrom-v2014.06-yocto1.6: storing head

@@ -1,0 +1,13 @@
+{
+  "Angstrom-distribution/meta-angstrom.git": 42.01066493988037, 
+  "Freescale/meta-fsl-arm-extra.git": 21.28518795967102, 
+  "openembedded-core": 215.43791699409485, 
+  "meta-linaro.git": 41.00706100463867, 
+  "Freescale/meta-fsl-demos.git": 30.04921293258667, 
+  "bitbake": 47.31891202926636, 
+  "meta-toradex.git": 706.0099589824677, 
+  "OSSystems/meta-browser.git": 4.876900911331177, 
+  "Freescale/meta-fsl-arm.git": 124.15985083580017, 
+  "meta-lxde.git": 16.05416703224182, 
+  "meta-openembedded": 67.87288618087769
+}
